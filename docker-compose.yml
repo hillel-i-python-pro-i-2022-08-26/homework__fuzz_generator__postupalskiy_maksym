@@ -1,0 +1,8 @@
+version: "3.8"
+
+services:
+  combinator:
+    build: .
+    volumes:
+      - ./storage:/workdir/storage:rw
+    user: "1000"
