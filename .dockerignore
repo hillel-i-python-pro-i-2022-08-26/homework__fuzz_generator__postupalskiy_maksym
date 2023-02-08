@@ -1,0 +1,7 @@
+# Ignore all
+**
+
+# Exclude[FILES]
+!main.py
+!requirements.txt
+

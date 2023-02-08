@@ -1,0 +1,10 @@
+# [code_style]-[BEGIN]
+# Formatter. Apply codestyle.
+black==22.12.0
+# Check codestyle.
+flake8==6.0.0
+# Upgrade syntax.
+pyupgrade==3.3.1
+# Pre-commit hook.
+pre-commit==2.21.0
+# [code_style]-[END]
